@@ -1,11 +1,10 @@
+<h1 align="center">MateTrip Frontend</h1>
 
-  # Travel Planning Tool Design
+<p align="center">
+  성향기반 동행 매칭 및 실시간 협업 여행 플래너 Matetrip의 Frontend <br/>
+  <b> React · Vite · S3 </b>
+</p>
 
-  This is a code bundle for Travel Planning Tool Design. The original project is available at https://www.figma.com/design/T2M0rj2VRyKgpQzMx63304/Travel-Planning-Tool-Design.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+<p align="center">
+  <img width="800" alt="MateTrip Frontend Poster" src="https://github.com/user-attachments/assets/610ca8b3-90d6-44f9-9329-38eb1431241b" />
+</p>
